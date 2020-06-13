@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Prateek Agrawal
 
 # Username (this should match the folder name)
 authors:
@@ -10,25 +10,26 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Associate Professor of Physics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Oxford University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research aims to understand and test the fundamental laws of
+physics.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Physics beyond the Standard Model
+- Cosmology
+- Quantum Field Theory
 
 education:
   courses:
   - course: PhD in Artificial Intelligence
-    institution: Stanford University
+    institution: University of Maryland
     year: 2012
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
