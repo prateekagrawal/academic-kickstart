@@ -18,8 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research aims to understand and test the fundamental laws of
-physics.
+bio: My research aims to understand and test the fundamental laws of physics.
 
 interests:
 - Physics beyond the Standard Model
