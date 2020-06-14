@@ -20,22 +20,22 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research aims to understand and test the fundamental laws of physics.
 
-interests:
-- Physics beyond the Standard Model
-- Cosmology
-- Quantum Field Theory
-
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: University of Maryland
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+#interests:
+#- Physics beyond the Standard Model
+#- Cosmology
+#- Quantum Field Theory
+#
+#education:
+#  courses:
+#  - course: PhD in Artificial Intelligence
+#    institution: University of Maryland
+#    year: 2012
+#  - course: MEng in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2009
+#  - course: BSc in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -69,6 +69,9 @@ user_groups:
 - Researchers
 - Visitors
 ---
+  
+  
+  
 
 Prateek Agrawal is an Associate Professor of physics at Oxford, and a
 Tutorial Fellow at Somerville college. He is interested in the nature
