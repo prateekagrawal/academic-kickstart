@@ -9,9 +9,10 @@
   weight = 10
 
 [[main]]
-  name = "courses"
-  url = "courses/"
-  weight = 20
+  name = "group"
+  url = "#group"
+  weight = 15
+
 
 [[main]]
   name = "projects"
@@ -22,6 +23,11 @@
   name = "publications"
   url = "#publications"
   weight = 40
+
+[[main]]
+  name = "courses"
+  url = "courses/"
+  weight = 45
 
 [[main]]
   name = "contact"
